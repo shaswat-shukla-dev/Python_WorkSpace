@@ -14,4 +14,4 @@ print(age)
 name=bool(name)
 print(name)
 name2=bool(name2)
-print(name2)
+print(name2) #give False
